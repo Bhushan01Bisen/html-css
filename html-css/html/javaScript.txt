@@ -1,0 +1,9 @@
+Defination :
+   
+   => It is a client site website scriptg language ,it run on Browser 
+    => using js we can wite client side validation 
+    => using js we do dynamic operetion on HTML 
+    => if you  want to write javascript code i your HTML code then you should have to us script tag only .
+    => if  you write code out of the html page then create .js file and then placed your code there ,and lode that .js fileito HTML file using script tag
+
+  =>js is synchronus and single threded language means line by line excution and having only one stake and one memorey head for the excutionof the code 

@@ -1,0 +1,102 @@
+=================html=======================================
+
+inline element : inline element is the element which  
+block element :
+
+Diffrent between programming language and maarkup language
+
+
+html=hyper text maarkup language
+
+inline fuction =the text which are 
+
+attrubute=
+
+====================CSS-cascading tyle shert=================================================
+1.Flex
+2.gridt
+3.transition
+4.transformatiom
+5.Animation
+6.pseudo
+7.elements/selectors
+
+8.Box sizing
+9.Browser storage
+
+==================JS====================================
+
+=>JavaScript
+
+*Introduction*
+
+1.Variable and methods
+2.array method,string,json,get referances
+3.apply styles
+
+4.event in js (onclick,onblur,onchange,onkeyup,onmouseover etc)
+
+5.how to get the form data 
+6.how to prepare json object
+7.jax =. asynchronus javascript and xml
+
+8.perfomance optimization
+9.debouncing and througgling
+
+10.async adnd defer
+
+11.settimeout and througgling 
+12.clertimeout and clearintervel
+
+13.Browser and settimeout
+14.local storage,session nd cookies
+
+15.BOM and DOM
+
+16.call,apply and bind method 
+
+17.closure  and curryind js 
+
+18.how to handel async using cbs,async and await
+
+19.ES6 features
+
+class,let const,templete literal,object destruction,arry destruction
+rest operaton ,spread operaton,es6 short syntax,optional  chaining
+
+21.Generation function
+
+bubblinng / capturing /event deligation
+error try catch finally
+regular expression
+variable  and method hoisting 
+
+and and ternary opretor
+
+
+
+===========================React===========================================================
+1.Imtroduction in React
+2.JSX
+3.Componenet
+4.Rendering
+5.Handling Events
+6.State Manegement 
+7.Componenet life cycle methods
+8.Lists and Key 
+9.froms  and controlled components
+10.React router
+11.Hooks
+12.Context APL
+13.Redux
+14.API integration
+15.Styling in React 
+16.build nd deployment 
+17.Testing (RLT and cypress)
+18.best practices to optimize the performance
+19. Project Work
+
+Redux =
+Redux toolkit
+
+react query

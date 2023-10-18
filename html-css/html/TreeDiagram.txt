@@ -1,0 +1,87 @@
+ --------------------------------------------|---------------------HTML--------------------------------------------------------------------------
+                                              |                       |
+                                              |
+                                              |                     |
+                                              |  1.Inline Element -Content width as its own  width(span,i,b,img,input,select etc...)
+                                              | 
+                        ______________________|  2.Blocklevel Element-tekes parent width as its own width(_p,div,h1....h6,ul,li)                             
+_______________________|
+|
+*Attribute====(id,name,class,style etc..)
+
+=====Input Control =(1.Text Box,2.Password Box,3.Radio Button,4.Check BOX,5.Doropdown,6.Textarea,7.File 8.Upload)===
+
+==========HTML TAG===========
+
+title,script,link,iframe,img,table,ul,ol,a(anchor)
+
+=======HTML 5=======
+
+#Simantic Tags
+#input control (color,email,number,range,search,tel,url,date,datetime)
+#Attribute
+#Media Tag
+#Grapics Tags
+#HTML5 APIs
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------CSS------------------------------------------------------------------------------
+                                                             {Apply Styling}
+                                                             1.Inline
+                                                             2.Internal
+                                                             3.External
+
+
+=======================Box  Model============================
+1.Content
+2.Border
+3.Padding
+4.Margin
+
+                                                                 ==================================position================================
+                                                                 1.static
+                                                                 2.absolute
+                                                                 3.relative
+                                                                 4.fixed
+                                                                 5.sticky
+
+==================Selector====================================
+1.Star(*)
+2.TagName()
+3.ID(#)
+4.Class(.)
+5.:first-child
+6.:last-child
+7.:first-type
+8.last-of-type
+9.grater than (>)
+10.plus(+)
+11.Tild(~)
+12.:nth-child()
+13.Attribute[]
+
+                                                                             ==========================Media ============================
+
+===============CSS Properties==================================
+1.Box Sizzing
+2.Text Alingn
+3.Fonts
+4.Display
+5.Overflow
+6.Float
+7.Opacity
+8.z-index
+   
+                                                                ===================================CSS3===================================
+                                                                1.Rounded Corner
+                                                                2.Border Image
+                                                                3.Multiple Background
+                                                                4.Gradients(Liner Gradents,Radal Gradients)
+                                                                5.Shadows(Box Shadows,Text Shadows)
+                                                                6.Transition
+                                                                7.Transformtion
+                                                                8.Animations
+                                                                9.Box Sizzing
+                                                                10.Media Queries
+                                                                11.Flexbox
